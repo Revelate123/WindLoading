@@ -1,0 +1,20 @@
+p SLS {'N': 0.48, 'NE': 0.37, 'E': 0.41, 'SE': 0.51, 'S': 0.51, 'SW': 0.51, 'W': 0.57, 'NW': 0.69}
+
+p SLS max: 0.69 KPa
+
+p ULS {'N': 0.71, 'NE': 0.55, 'E': 0.61, 'SE': 0.75, 'S': 0.75, 'SW': 0.75, 'W': 0.84, 'NW': 1.02}
+
+p ULS max: 1.02 KPa
+
+Terrain categories are integers only, so category 2.5 = 3, 3 = 4, and 4 = 5
+Terrain categories {'N': 3, 'NE': 3, 'E': 4, 'SE': 4, 'S': 4, 'SW': 4, 'W': 4, 'NW': 2}
+
+Mz_cat {'N': 0.9, 'NE': 0.9, 'E': 0.83, 'SE': 0.83, 'S': 0.83, 'SW': 0.83, 'W': 0.83, 'NW': 0.964}
+
+Md {'N': 0.85, 'NE': 0.75, 'E': 0.85, 'SE': 0.95, 'S': 0.95, 'SW': 0.95, 'W': 1, 'NW': 0.95}
+
+Vr sls 37 m/s
+
+Height, z 8 m
+
+Region A2
